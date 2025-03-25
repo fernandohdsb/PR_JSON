@@ -1,0 +1,34 @@
+{
+    "videojuegos":[
+        {
+        "titulo": "The legend of zelda ",
+        "ejemplares_disponibles": 5,
+        "dificultad":["Fácil", "Dificil"],
+        "precio": 60
+             },
+        {
+            "titulo": "GTA V",
+            "ejemplares_disponibles": 3,
+            "dificultad":{"Trevor": "Dificil", "Michael": "Medio", "Franklin": "Fácil"},
+            "precio": 90
+            },
+        {
+        "titulo": "Minecraft",
+        "ejemplares_disponibles": 14,
+        "dificultad":["Fácil","Normal", "Dificil"],
+        "precio": 40
+            },
+            {
+        "titulo": "Mario bros",
+        "ejemplares_disponibles": 10,
+        "dificultad":{"mundo 1": "Fácil","mundo 2": "Fácil","mundo 3":"Medio", "mundo 4":"Medio", "mundo 5":"Medio", "mundo 6":"Dificil","mundo 7":"Dificil", "mundo 8":"Dificil"},
+        "precio": 20
+            },
+            {
+        "titulo": "Uncharted",
+        "ejemplares_disponibles": 0,
+        "dificultad":["Fácil","Normal", "Dificil"],
+        "precio": 75
+            } 
+    ]
+}
